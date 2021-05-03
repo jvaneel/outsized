@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../genius/.idea/genius.iml" filepath="$PROJECT_DIR$/../genius/.idea/genius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projects/new-backend/.idea/new-backend.iml" filepath="$PROJECT_DIR$/../projects/new-backend/.idea/new-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/outsized.iml" filepath="$PROJECT_DIR$/.idea/outsized.iml" />
+    </modules>
+  </component>
+</project>
